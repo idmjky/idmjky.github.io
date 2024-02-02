@@ -44,10 +44,6 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_slides: ''
 url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 
 # Featured image
