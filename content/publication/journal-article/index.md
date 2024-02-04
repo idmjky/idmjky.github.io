@@ -29,7 +29,6 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_link: 'https://github.com/HugoBlox/hugo-blox-builder'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
