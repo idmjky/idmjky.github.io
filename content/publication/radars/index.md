@@ -43,9 +43,10 @@ url_pdf: https://www.nature.com/articles/s41587-022-01534-5
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: 'Image credit: [**Unsplash**](featured.jpg)'
+  focal_point: 'Center'
   preview_only: false
+  placement: 1
 ---
 
 

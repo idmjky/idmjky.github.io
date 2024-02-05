@@ -43,9 +43,10 @@ url_pdf: https://www.science.org/doi/epdf/10.1126/science.add7347
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: 'Image credit: [**Unsplash**](featured.jpg)'
+  focal_point: 'Center'
   preview_only: false
+  placement: 1
 ---
 
 

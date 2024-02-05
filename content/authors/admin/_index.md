@@ -37,7 +37,7 @@ education:
       year: 2025
     - course: BS in Biomedical Engineering
       institution: Rice University
-      year: 2017
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
