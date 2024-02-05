@@ -1,12 +1,22 @@
 ---
-title: "An example journal article"
+title: "Programmable eukaryotic protein synthesis with RNA sensors by harnessing ADAR"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Kaiyi Jiang*
+- Jeremy Koob*
+- Xi Chen*
+- Rohan Krajeski*
+- Yifan Zhang*
+- Verena Volf
+- Wenyuan Zhou
+- Samantha Sgrizzi
+- Lukas Villiger
+- Jonathan Gootenberg
+- Fei Chen
+- Omar Abudayyeh
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2022-10-27T00:00:00Z"
 doi: ""
 
 # Publication type.
@@ -15,27 +25,27 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Nature Biotechnology"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Programmable approaches to sense and respond to the presence of specific RNAs in biological systems have broad applications in research, diagnostics, and therapeutics. Here we engineer a programmable RNA-sensing technology, reprogrammable ADAR sensors (RADARS), which harnesses RNA editing by adenosine deaminases acting on RNA (ADAR) to gate translation of a cargo protein by the presence of endogenous RNA transcripts. Introduction of a stop codon in a guide upstream of the cargo makes translation contingent on binding of an endogenous transcript to the guide, leading to ADAR editing of the stop codon and allowing translational readthrough. Through systematic sensor engineering, we achieve 277 fold improvement in sensor activation and engineer RADARS with diverse cargo proteins, including luciferases, fluorescent proteins, recombinases, and caspases, enabling detection sensitivity on endogenous transcripts expressed at levels as low as 13 transcripts per million. We show that RADARS are functional as either expressed DNA or synthetic mRNA and with either exogenous or endogenous ADAR. We apply RADARS in multiple contexts, including tracking transcriptional states, RNA-sensing-induced cell death, cell-type identification, and control of synthetic mRNA translation.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We engineered the first robust mammalian RNA-sensor based on ADAR called RADARS. The sensor can be reprogrammed to track any RNA species inside eukaryotic cells and allow conditional cargo expression based on the presence/expression of target mRNA(s). We demonstrate that the system can be readily integrated into AAV, lentivirus, and synthetic mRNA to selectively turn on an arbitrary protein of interest.  We showcase the use of this system in cell specific killing, lineage tracing and in vivo recording for reprogrammable cell control. 
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.nature.com/articles/s41587-022-01534-5
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#   focal_point: ""
+#   preview_only: false
 ---
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
