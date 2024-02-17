@@ -101,9 +101,7 @@ sections:
     content:
       title: Recent Publications
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+        https://www.ncbi.nlm.nih.gov/myncbi/kaiyi.jiang.2/bibliography/public/
       filters:
         folders:
           - publication
