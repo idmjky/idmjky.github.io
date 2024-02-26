@@ -78,7 +78,7 @@ sections:
         - title: Intern
           company: Regeneron Pharmaceuticals
           company_url: ''
-          company_logo: org-regeneron
+          company_logo: org-regn
           location: Tarrytown, NY
           date_start: '2019-05-01'
           date_end: '2019-08-01'
