@@ -62,7 +62,7 @@ sections:
           location: Boston, MA
           date_start: '2021-06-01'
           date_end: ''
-          description: | 
+          description: |2-
               *Developed the first robust mammalian cell RNA sensor named reprogrammable ADAR sensors (RADARS) that senses endogenous RNA transcripts down to 13TPM and release arbitrary payload upon ADAR mediated stop codon editing. I demonstrated this technology for cell state-specific apoptosis, molecular recording (lineage tracing with CRE), in vivo detection of tissue markers with live bioluminescence imaging, and RNA gated synthetic mRNA cytokine therapies for RNA immunotherapy in solid tumor.
               *Built a low-N protein engineering ensemble model comprising large protein langue model (ESM) and domain specific expert top layer for rapid evolution of enzymatic function. This model achieved SOTA performance on public DMS datasets. I deployed this model on a novel miniature CRISPR nuclease (PsaCas12f) and rapidly evolved a 10-fold more active enPsaCas12f for in vivo genome editing. Using this model, I evolved a SOTA T7 RNA polymerase that produces mRNA with near zero immunogenicity, BXB1 integrase that are 2-fold more active than wild type, and carbonic anhydrase with 20% increased thermal and PH stability. 
               *Discovered the first RNA-guided protease in type III-E CRISPR systems (Craspase Cas7-11/Csx29/Csx30). This is the first known abortive infection module in bacterial antiviral defense systems that utilize post-translational protein cleavage upon RNA detection. I reprogrammed the system to function as a RNA sensor system in mammalian cell and demonstrated the potential for mammalian cell RNA diagnostic and therapy. 
