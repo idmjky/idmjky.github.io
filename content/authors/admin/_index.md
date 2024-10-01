@@ -34,7 +34,7 @@ education:
   courses:
     - course: PhD in Biological Engineering
       institution: Massachusetts Institute of Technology
-      year: 2025
+      year: 2025 
     - course: BS in Biomedical Engineering
       institution: Rice University
       year: 2021
@@ -64,5 +64,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a third year PhD student at Massachusetts Institute of Technology (MIT) Biological Engineering. I am fortunate to be advised by Dr. Jonathan Gootenberg, Dr. Omar Abudayyeh, and Dr. Michael Birnbaum. Previously, I received my B.S. degree (Summa cum laude) from Rice University in 2021. At Rice, I was fortunate to work with Dr. Caleb Bashor and Dr. Gang Bao. I was an intern at Regeneron Pharmaceutical’s therapeutic antibody group in 2018. I am broadly interested in harnessing biological diversity to discover novel reprogrammable systems and using machine learning to engineer these systems for programmable cell control and delivery. Applications include in vivo recording and lineage tracing, gene and cell therapy for autoimmune disease and cancer.
+I am currently a Ph.D. candidate at Massachusetts Institute of Technology (MIT) Biological Engineering. I am fortunate to be advised by Dr. Jonathan Gootenberg, Dr. Omar Abudayyeh, and Dr. Michael Birnbaum. Previously, I received my B.S. (Summa cum laude) in biomedical engineering from Rice University in 2021. At Rice, I was fortunate to work with Dr. Caleb Bashor and Dr. Gang Bao. I was an intern at Regeneron Pharmaceutical’s therapeutic antibody group in 2018. I am broadly interested in harnessing biological diversity to discover novel reprogrammable systems and using machine learning to engineer these systems for programmable cell control and delivery. Applications include in vivo recording and lineage tracing, gene and cell therapy for autoimmune disease and cancer.
 {style="text-align: justify;"}
