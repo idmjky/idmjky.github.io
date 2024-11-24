@@ -28,6 +28,7 @@ bio: kaiyi
 interests:
   - Gene/Cell Therapy
   - Synthetic Biology
+  - AI/ML for Biology
 
 # Education to show in About widget
 education:
