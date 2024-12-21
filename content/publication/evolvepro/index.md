@@ -2,7 +2,7 @@
 title: "Rapid protein evolution by few-shot learning with a protein language model"
 authors:
 - Kaiyi Jiang*
-- Zhaoqing Yan
+- Zhaoqing Yan*
 - Matteo Bernardo
 - Samantha Sgrizzi
 - Lukas Villiger
